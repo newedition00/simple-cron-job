@@ -13,4 +13,4 @@ while(True):
             print(data)
     except:
         pass
-    time.sleep(60 * 2)
+    time.sleep(30 * 3)
